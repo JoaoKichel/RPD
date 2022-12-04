@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1098641533227",
+    "project_id": "psi-rpd",
+    "storage_bucket": "psi-rpd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098641533227:android:25a6cbd9711e370e6e7d6e",
+        "android_client_info": {
+          "package_name": "com.example.p_integrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098641533227-kfo1lt0i44rj8nh838d0h0f4d554orar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLU7WctanbwPDToqs0QlooWgmjx66Z8Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098641533227-kfo1lt0i44rj8nh838d0h0f4d554orar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098641533227-85iv9o906r994qunpgr6n0tjbscapkac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pIntegrador"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098641533227:android:91115d99b719352c6e7d6e",
+        "android_client_info": {
+          "package_name": "com.psirpd.projetovi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098641533227-kfo1lt0i44rj8nh838d0h0f4d554orar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLU7WctanbwPDToqs0QlooWgmjx66Z8Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098641533227-kfo1lt0i44rj8nh838d0h0f4d554orar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098641533227-85iv9o906r994qunpgr6n0tjbscapkac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pIntegrador"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
